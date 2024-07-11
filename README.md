@@ -8,8 +8,6 @@
 
 - 🌱 В настоящее время я изучаю: **Python, Js, Html, Css**
 
-- 📫 Связаться со мной: **qwesaz1230@yandex.ru**
-
 - Не повторить, а превзойти **ㅤ**
 
 <h3 align="left">Связь::</h3>
@@ -69,5 +67,10 @@
 </td></tr></table>  
 
 <br/>  
+<div align="center">  
+  
+</div>
 
-[![codewars](https://www.codewars.com/users/Fr1ix/badges/large)](https://www.codewars.com/users/Fr1ix)
+<div align="center">  
+  [![codewars](https://www.codewars.com/users/Fr1ix/badges/large)](https://www.codewars.com/users/Fr1ix)
+</div>
