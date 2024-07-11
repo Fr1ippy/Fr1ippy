@@ -15,8 +15,12 @@
 <h3 align="left">Связь::</h3>
 <p align="left">
 <div id="badges">
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+ <a href="https://steamcommunity.com/id/Fr1ixx/">
+    <img src="https://img.shields.io/badge/Steam-blue?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Badge"/>
+  </a>
+  <a href="https://discord.gg/B6AZyVQjdg">
+    <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+  </a>
 </div>
 </p>
 
