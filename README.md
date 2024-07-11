@@ -1,5 +1,8 @@
 <h1 align="center">Привет, я Никита</h1>
 <h3 align="center">Я довольно продолжительное время пишу скрипты на я.п. python, также начинающий фулл стек веб разработчик с опытом работы в создании современных веб-приложений. Добро пожаловать на мой GitHub</h3>
+![Discord](https://img.shields.io/badge/Discord-https://discord.gg/B6AZyVQjdg.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
 
 - 🌱 В настоящее время я изучаю: **Python, Js, Html, Css**
 
