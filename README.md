@@ -21,6 +21,9 @@
   <a href="https://discord.gg/B6AZyVQjdg">
     <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
+  <a href="https://t.me/fkmnaal">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
 </div>
 </p>
 
