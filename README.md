@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 <h1 align="center">Привет, я Никита</h1>
 <h3 align="center">Я довольно продолжительное время пишу скрипты на я.п. python, также начинающий фулл стек веб разработчик с опытом работы в создании современных веб-приложений. Добро пожаловать на мой GitHub</h3>
 ![Discord](https://img.shields.io/badge/Discord-https://discord.gg/B6AZyVQjdg.svg?style=for-the-badge&logo=discord&logoColor=white)
