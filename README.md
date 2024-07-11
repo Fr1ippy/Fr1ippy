@@ -71,6 +71,4 @@
   
 </div>
 
-<div align="center">  
-  [![codewars](https://www.codewars.com/users/Fr1ix/badges/large)](https://www.codewars.com/users/Fr1ix)
-</div>
+  <p align="center"> [![codewars](https://www.codewars.com/users/Fr1ix/badges/large)](https://www.codewars.com/users/Fr1ix)</p>
