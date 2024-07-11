@@ -12,7 +12,8 @@
 
 <h3 align="left">Связь::</h3>
 <p align="left">
-<a href="https://discord.gg/B6AZyVQjdg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="B6AZyVQjdg" height="30" width="40" /></a>
+<a href="https://discord.gg/B6AZyVQjdg" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="B6AZyVQjdg" height="30" width="40" /></a>
+  
 </p>
 
 <h3 align="left">Мои языки инструменты:</h3>
