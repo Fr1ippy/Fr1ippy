@@ -16,7 +16,7 @@
 <p align="left">
 <div id="badges">
  <a href="https://steamcommunity.com/id/Fr1ixx/">
-    <img src="https://img.shields.io/badge/Steam-blue?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Badge"/>
+    <img src="https://img.shields.io/badge/Steam-dark blue?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Badge"/>
   </a>
   <a href="https://discord.gg/B6AZyVQjdg">
     <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
