@@ -62,5 +62,3 @@
 <div align="center">  
   
 </div>
-
-[![codewars](https://www.codewars.com/users/Fr1ix/badges/large)](https://www.codewars.com/users/Fr1ix)
