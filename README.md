@@ -6,21 +6,13 @@
 <h3 align="center">Я довольно продолжительное время пишу скрипты на я.п. python, также начинающий фулл стек веб разработчик с опытом работы в создании современных веб-приложений. Добро пожаловать на мой GitHub</h3>
 
 
-- 🌱 В настоящее время я изучаю: **Python, Js, Html, Css**
-- 🌱 А также: **React, Next js, Node js**
-
-- Не повторить, а превзойти? **ㅤ**
+- 🌱 В настоящее время я изучаю: **js, ts, React, Next js**
 
 <h3 align="left">Связь:</h3>
 <p align="left">
 <div id="badges">
- <a href="https://steamcommunity.com/id/Fr1ixx/">
-    <img src="https://img.shields.io/badge/Steam-darkblue?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Badge"/>
-  </a>
-  <a href="https://discord.gg/B6AZyVQjdg">
-    <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
-  </a>
-  <a href="https://t.me/fkmnaal">
+ 
+  <a href="https://t.me/fr1ippy">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
