@@ -40,19 +40,13 @@
 
 ### 🤝 Свяжитесь со мной:
 <div align="center">
-
-[![Telegram](https://img.shields.io/badge/-Contact%20me-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/fr1ippy)
-[![Gmail](https://img.shields.io/badge/-Email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
-<!-- Анимированные иконки прямо в разметке -->
-<a href="https://t.me/fr1ippy" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/Fr1ippy/Fr1ippy@main/assets/telegram-animated.svg" width="60" alt="Telegram"/>
-</a>
-
-<a href="mailto:your.email@example.com" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/Fr1ippy/Fr1ippy@main/assets/gmail-animated.svg" width="60" alt="Gmail"/>
-</a>
-
+  <a href="https://t.me/fr1ippy" target="_blank">
+    <img src="https://raw.githubusercontent.com/Fr1ippy/Fr1ippy/main/assets/telegram.svg" width="120" alt="Telegram"/>
+  </a>
+  
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/Fr1ippy/Fr1ippy/main/assets/gmail.svg" width="120" alt="Gmail"/>
+  </a>
 </div>
 
 ---
