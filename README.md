@@ -41,11 +41,11 @@
 ### 🤝 Свяжитесь со мной:
 <div align="center">
   <a href="https://t.me/fr1ippy">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+    <img src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000&color=26A5E4&link=https://t.me/fr1ippy"/>
   </a>
-  <!-- Добавьте свою почту при необходимости -->
-  <a href="mailto:qwesaz1230@yandex.ru">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000&color=EA4335"/>
   </a>
 </div>
 
