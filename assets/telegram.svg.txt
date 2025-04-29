@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="96" height="96" style="cursor: pointer;">
+  <style>
+    .outer-circle { fill: #0088cc; transition: all 0.3s; }
+    .plane-path { fill: #ffffff; }
+    a:hover .outer-circle { fill: #00aced; transform: rotate(15deg); }
+  </style>
+  <a href="https://t.me/fr1ippy" target="_blank">
+    <g>
+      <circle class="outer-circle" cx="12" cy="12" r="11"/>
+      <path class="plane-path" d="M9.78 18.17l1.08-4.52L7.4 13.3l11.6-6.92-9.62 11.8z"/>
+      <path class="plane-path" d="M10.85 13.65l5.59-3.07-5.57 3.08-.02 3.5z"/>
+    </g>
+  </a>
+</svg>
