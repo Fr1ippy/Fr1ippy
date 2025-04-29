@@ -44,7 +44,7 @@
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   <!-- Добавьте свою почту при необходимости -->
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:qwesaz1230@yandex.ru">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
