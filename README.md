@@ -1,64 +1,63 @@
-<div id="header" align="center">
+<div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38F776&width=435&lines=Frontend+Developer;From+Russia+with+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
 </div>
 
-<h1 align="center">Привет, я Никита</h1>
-<h3 align="center">Я занимаюсь фронтенд разработкой с использованием современных технологий и инструментов, создаю удобные и адаптивные веб-приложения с качественным пользовательским интерфейсом. Добро пожаловать на мой GitHub!</h3>
+---
 
+### 👨💻 Обо мне:
+Я фронтенд-разработчик с фокусом на создание современных веб-приложений. В своей работе использую лучшие практики и слежу за актуальными трендами в разработке. Всегда открыт для новых вызовов и интересных проектов!
 
-- 🌱 В настоящее время я изучаю: **js, ts, React, Next js**
+- 🔭 Сейчас работаю над: **Персональными проектами на React/Next.js**
+- 🌱 Активно изучаю: **TypeScript, Advanced React Patterns**
+- 👯 Ищу возможности для: **Участия в интересных стартапах**
+- 💬 Спросите меня о: **Frontend-экосистеме, оптимизации производительности**
+- ⚡ Факт: **Обожаю решать сложные задачи и автоматизировать рутину**
 
-<h3 align="left">Связь:</h3>
-<p align="left">
-<div id="badges">
- 
+---
+
+### 🛠️ Мой стек:
+#### Frontend:
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;
+</div>
+
+#### Backend & Tools:
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/>&nbsp;
+</div>
+
+---
+
+### 📈 Моя активность:
+<!-- Обновлено с вашим юзернеймом -->
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Fr1ippy&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fr1ippy&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### 🤝 Свяжитесь со мной:
+<div align="center">
   <a href="https://t.me/fr1ippy">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <!-- Добавьте свою почту при необходимости -->
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
-</p>
 
-<h3 align="left">Мои языки инструменты:</h3>
+---
 
-### Frontend:
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-</td><td valign="top" width="33%">
-
-<div align="center">  
-  
-</div>
-
-</td><td valign="top" width="33%">
-  
-</td></tr></table>  
-
-<br/>  
-
-
-
-### Backend:
-<div align="center">  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a> 
-</div>
-
-</td></tr></table>  
-
-<br/>  
-<div align="center">  
-  
-</div>
+### 🎯 Последние достижения:
+<!-- Обновлено с вашим юзернеймом -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=Fr1ippy&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
